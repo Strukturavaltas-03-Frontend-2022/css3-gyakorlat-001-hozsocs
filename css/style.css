@@ -7,7 +7,7 @@
 body {
 background-color: #009688;	
 color: white;
-text-align: justify;
+text-align: center;
   }
   
   a {
@@ -47,7 +47,7 @@ text-align: justify;
 	color: white;
 	border-radius: 100%;
 	position: absolute;
-	text-align: justify;
+	text-align: center;
 	line-height: 80px;
 	-webkit-transform: translate3d(0, 0, 0);
 			transform: translate3d(0, 0, 0);
